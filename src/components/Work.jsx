@@ -11,7 +11,7 @@ function Work() {
   const [darkMode, setDarkMode] = useState(false)
   const boots = 'https://rujoboots.com'
   const axolotl = 'https://axolotlplanet.com'
-  const rmr = 'https://rmrsolutions.com?asd'
+  const rmr = 'https://rmrsolutions.com'
   const typhoon = 'https://typhoontexas.com'
   const hwy30 = 'https://hwy30tx.com'
   const sova = 'https://sovahotels.com'
