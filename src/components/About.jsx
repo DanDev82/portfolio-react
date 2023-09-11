@@ -20,7 +20,7 @@ function About() {
               <p>Hi. I'm Dan, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p className="text-[#8892b0]">I am a self-taught web developer with 8+ years experience who is passionate about all things web. My experience spans from building high converting landing pages to full e-commerce websites. I love problem solving and thrive on finding solutions to daily challenges in web development.</p>
+              <p className="text-[#8892b0]">I am a self-taught web developer with 5+ years experience who is passionate about all things web. My experience spans from building high converting landing pages to full e-commerce websites. I love problem solving and thrive on finding solutions to daily challenges in web development.</p>
             </div>
           </div>
         </div>
