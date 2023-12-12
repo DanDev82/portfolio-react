@@ -11,7 +11,7 @@ function Work() {
   const [darkMode, setDarkMode] = useState(false)
   const boots = 'https://rujoboots.com'
   const axolotl = 'https://axolotlplanet.com'
-  const rmr = 'https://rmrsolutions.com?asd'
+  const rmr = 'https://rmrsolutions.com'
   const typhoon = 'https://typhoontexas.com'
   const hwy30 = 'https://hwy30tx.com'
   const sova = 'https://sovahotels.com'
@@ -67,7 +67,7 @@ function Work() {
                 Shopify
               </span>
               <div className="pt-8 text-center">
-                <a href={sova} target="_blank">
+                <a href={rmr} target="_blank">
                   <button className="text-center rounded-md px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                 </a>
               </div>
