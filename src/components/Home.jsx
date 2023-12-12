@@ -25,7 +25,7 @@ const Home = () => {
         </div>
       </div>
       <div className="px-4 flex lg:w-[45%] w-[100%]">
-        <img src="https://dancoria.com/wp-content/uploads/2023/08/Dan_outline.png" className="lg:w-[70%] w-[200px] lg:h-[90%] h-[250px] justify-center lg:items-end items-center mt-6 lg:mt-0" alt="" />
+        <img src="https://xaplclpxalpltojhiqtx.supabase.co/storage/v1/object/public/Images/_Me.png" className="lg:w-[70%] w-[200px] lg:h-[90%] h-[250px] justify-center lg:items-end items-center mt-6 lg:mt-0" alt="" />
       </div>
       </div>
       {/* End container */}
